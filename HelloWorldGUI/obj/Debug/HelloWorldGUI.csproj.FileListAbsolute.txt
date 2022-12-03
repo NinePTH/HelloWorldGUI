@@ -1,0 +1,16 @@
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.AssemblyReference.cache
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.SuggestedBindingRedirects.cache
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.g.cs
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\App.g.cs
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.cache
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.lref
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.baml
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.g.resources
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.CoreCompileInputs.cache
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+D:\HelloWorldGUI\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb
